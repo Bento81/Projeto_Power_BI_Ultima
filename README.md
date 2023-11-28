@@ -1,7 +1,7 @@
 
 ## Projeto Power BI do Curso da Ultima School 
 
-Projeto inicial para o desafio do modulo de SQL do curso da Ultima School, em Construção 
+Projeto inicial para o desafio do modulo de Power BI do curso da Ultima School, baseado no repositório SQL
 
-# [REPOSITORIO SQL] (https://github.com/Bento81/Projeto-SQL-Ultima.git) 
+# [Repositório SQL] (https://github.com/Bento81/Projeto-SQL-Ultima.git) 
 
